@@ -5,6 +5,7 @@ __pycache__/
 *.sqlite3
 *.pid
 .terraform/
+.terraform.*
 terraform.tfstate*
 *.bak
 .DS_Store
