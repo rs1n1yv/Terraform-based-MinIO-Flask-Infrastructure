@@ -12,3 +12,12 @@ Bu layihə Flask + Terraform istifadə edərək MinIO-da session və fayl yükl�
 terraform init
 terraform apply
 
+
+
+🌐 Access Services	
+
+Service				URL
+MinIO Console		http://localhost:9001
+MinIO API		http://localhost:9000
+Session App (Flask)	http://localhost:5000
+Upload App (Flask)	http://localhost:5001
